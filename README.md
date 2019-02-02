@@ -53,3 +53,4 @@
 * [中国程序员容易发音错误的单词](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)   
 * [IDA plugins](https://github.com/onethawt/idaplugins-list)  
 * [MPI Tutorial](https://github.com/wesleykendall/mpitutorial)  
+* [Awesome Mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)  
