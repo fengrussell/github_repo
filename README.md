@@ -18,6 +18,7 @@
 
 ### Math  
 * [CALCULUS MADE EASY](https://github.com/nadvornix/calculus-made-easy)  
+* [数学乐](http://www.shuxuele.com/index.html)  
 
 
 ### DL  
