@@ -19,6 +19,7 @@
 ### Math  
 * [CALCULUS MADE EASY](https://github.com/nadvornix/calculus-made-easy)  
 * [数学乐](http://www.shuxuele.com/index.html)  
+* [Deep-Learning-Book-Series-Introduction](https://hadrienj.github.io/posts/Deep-Learning-Book-Series-Introduction/)  
 
 
 ### DL  
