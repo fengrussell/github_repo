@@ -8,6 +8,7 @@
 * [nginx-1.9.2代码分析](https://github.com/y123456yz/reading-code-of-nginx-1.9.2)  
 * [计算机相关技术资料整理](https://github.com/EZLippi/practical-programming-books)  
 * [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)  
+* [学习操作系统的简单内核](https://github.com/MRNIU/SimpleKernel)  
 
 
 ### Vision  
