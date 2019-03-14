@@ -9,12 +9,14 @@
 * [计算机相关技术资料整理](https://github.com/EZLippi/practical-programming-books)  
 * [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)  
 * [学习操作系统的简单内核](https://github.com/MRNIU/SimpleKernel)  
+* [hacker-tools课程](https://hacker-tools.github.io/lectures/)  
 
 
 ### Vision  
 * [simple-camera-pipeline Matlab版本](https://github.com/AbdoKamel/simple-camera-pipeline)  
 * [图像降噪论文](https://github.com/flyywh/Image-Denoising-State-of-the-art)  
-* [HDR+](https://github.com/timothybrooks/hdr-plus)  
+* [HDR+](https://github.com/timothybrooks/hdr-plus)   
+* [计算机图形学教程（英文）](http://www.scratchapixel.com/)   
 
 
 ### Math  
