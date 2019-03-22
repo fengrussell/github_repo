@@ -19,6 +19,9 @@
 * [HDR+](https://github.com/timothybrooks/hdr-plus)   
 * [计算机图形学教程（英文）](http://www.scratchapixel.com/)   
 
+### NLP  
+* [BERT课程预备知识](http://fancyerii.github.io/2019/03/05/bert-prerequisites/)   
+
 
 ### Math  
 * [CALCULUS MADE EASY](https://github.com/nadvornix/calculus-made-easy)  
