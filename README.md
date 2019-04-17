@@ -27,7 +27,7 @@
 * [CALCULUS MADE EASY](https://github.com/nadvornix/calculus-made-easy)  
 * [数学乐](http://www.shuxuele.com/index.html)  
 * [Deep-Learning-Book-Series-Introduction](https://hadrienj.github.io/posts/Deep-Learning-Book-Series-Introduction/)  
-* [南瓜书-西瓜书推导补充](https://datawhalechina.github.io/pumpkin-book/#/)[github地址](https://github.com/datawhalechina/pumpkin-book)  
+* [南瓜书-西瓜书推导补充](https://datawhalechina.github.io/pumpkin-book/#/) &nbsp; [github地址](https://github.com/datawhalechina/pumpkin-book)  
 
 
 ### DL  
