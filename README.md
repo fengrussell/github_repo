@@ -11,6 +11,7 @@
 * [学习操作系统的简单内核](https://github.com/MRNIU/SimpleKernel)  
 * [hacker-tools课程](https://hacker-tools.github.io/lectures/)  
 * [Python NumPy 实例教程](https://www.pythonprogramming.in/numpy-tutorial-with-examples-and-solutions.html)   
+* [如何构建一个简单的数据库（英文）](https://cstack.github.io/db_tutorial/)   
 
 
 ### Vision  
