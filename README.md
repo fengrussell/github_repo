@@ -40,7 +40,7 @@
 * [tensorflow 源码分析](https://github.com/yao62995/tensorflow)   
 * [Deep Learning 中文翻译](https://github.com/exacity/deeplearningbook-chinese)   
 * [TensorFlow on Raspberry Pi](https://github.com/samjabrahams/tensorflow-on-raspberry-pi)   
-* [神经网络与深度学习 邱锡鹏](https://nndl.github.io/)  [github地址](https://github.com/nndl/nndl.github.io)   
+* [神经网络与深度学习 邱锡鹏](https://nndl.github.io/)  ([github地址](https://github.com/nndl/nndl.github.io))   
 
 
 ### 容器  
@@ -66,3 +66,4 @@
 * [MPI Tutorial](https://github.com/wesleykendall/mpitutorial)  
 * [Awesome Mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)  
 * [中国科学技术大学计算机学院课程资源](https://github.com/mbinary/USTC-CS-Courses-Resource)    
+* [北京大学各种课程资料收集](https://lib-pku.github.io/)  
