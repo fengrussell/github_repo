@@ -66,5 +66,5 @@
 * [IDA plugins](https://github.com/onethawt/idaplugins-list)  
 * [MPI Tutorial](https://github.com/wesleykendall/mpitutorial)  
 * [Awesome Mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)  
-* [中国科学技术大学计算机学院课程资源](https://github.com/mbinary/USTC-CS-Courses-Resource)    
+* [中国科学技术大学计算机学院课程资源](https://github.com/USTC-Resource/USTC-Course)    
 * [北京大学各种课程资料收集](https://lib-pku.github.io/)  
