@@ -29,6 +29,7 @@
 * [数学乐](http://www.shuxuele.com/index.html)  
 * [Deep-Learning-Book-Series-Introduction](https://hadrienj.github.io/posts/Deep-Learning-Book-Series-Introduction/)  
 * [南瓜书-西瓜书推导补充](https://datawhalechina.github.io/pumpkin-book/#/) &nbsp; [github地址](https://github.com/datawhalechina/pumpkin-book)  
+* [概率入门课程-加州大学伯克利分校](http://prob140.org/textbook/chapters/README)  
 
 
 ### DL  
