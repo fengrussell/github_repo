@@ -12,6 +12,7 @@
 * [hacker-tools课程](https://hacker-tools.github.io/lectures/)  
 * [Python NumPy 实例教程](https://www.pythonprogramming.in/numpy-tutorial-with-examples-and-solutions.html)   
 * [如何构建一个简单的数据库（英文）](https://cstack.github.io/db_tutorial/)   
+* [What the f*ck Python!](https://github.com/leisurelicht/wtfpython-cn)  
 
 
 ### Vision  
@@ -43,6 +44,8 @@
 * [Deep Learning 中文翻译](https://github.com/exacity/deeplearningbook-chinese)   
 * [TensorFlow on Raspberry Pi](https://github.com/samjabrahams/tensorflow-on-raspberry-pi)   
 * [神经网络与深度学习 邱锡鹏](https://nndl.github.io/)  ([github地址](https://github.com/nndl/nndl.github.io))   
+* [李宏毅机器学习笔记](https://github.com/datawhalechina/leeml-notes)   [在线阅读地址](https://datawhalechina.github.io/leeml-notes/)   
+
 
 
 ### 容器  
