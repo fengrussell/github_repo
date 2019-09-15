@@ -72,3 +72,7 @@
 * [Awesome Mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)  
 * [中国科学技术大学计算机学院课程资源](https://github.com/SongFGH/USTC-CS-Courses-Resource)    
 * [北京大学各种课程资料收集](https://lib-pku.github.io/)  
+* [技术面试题目](https://github.com/0voice/interview_internal_reference)  
+* [Interviews](https://github.com/kdn251/interviews)  
+
+
