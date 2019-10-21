@@ -46,6 +46,7 @@
 * [神经网络与深度学习 邱锡鹏](https://nndl.github.io/)  ([github地址](https://github.com/nndl/nndl.github.io))   
 * [李宏毅机器学习笔记](https://github.com/datawhalechina/leeml-notes)   [在线阅读地址](https://datawhalechina.github.io/leeml-notes/)   
 * **[机器学习-白板推导系列](https://github.com/shuhuai007/Machine-Learning-Session)**    
+* [机器学习，概率模型和深度学习的讲义-徐亦达](https://github.com/roboticcam/machine-learning-notes)   
 
 
 
