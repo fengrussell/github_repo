@@ -14,6 +14,10 @@
 * [如何构建一个简单的数据库（英文）](https://cstack.github.io/db_tutorial/)   
 * [What the f*ck Python!](https://github.com/leisurelicht/wtfpython-cn)  
 
+### 技术贴    
+* [短网址(short URL)系统的原理及其实现](https://hufangyun.com/2017/short-url/)  
+* [全文搜索系统入门](https://bhavaniravi.com/blog/challenges-in-full-text-search)  
+
 
 ### Vision  
 * [simple-camera-pipeline Matlab版本](https://github.com/AbdoKamel/simple-camera-pipeline)  
@@ -76,5 +80,5 @@
 * [北京大学各种课程资料收集](https://lib-pku.github.io/)  
 * [技术面试题目](https://github.com/0voice/interview_internal_reference)  
 * [Interviews](https://github.com/kdn251/interviews)  
-
+* [反向面试](https://github.com/yifeikong/reverse-interview-zh)  
 
