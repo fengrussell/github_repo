@@ -36,6 +36,8 @@
 * [南瓜书-西瓜书推导补充](https://datawhalechina.github.io/pumpkin-book/#/) &nbsp; [github地址](https://github.com/datawhalechina/pumpkin-book)  
 * [概率入门课程-加州大学伯克利分校](http://prob140.org/textbook/chapters/README)  
 
+### Algo
+* **[All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)**  
 
 ### DL  
 * [斯坦福大学 “深度学习研究 TensorFlow” 的课程示例代码](https://github.com/chiphuyen/stanford-tensorflow-tutorials)   
