@@ -180,4 +180,3 @@ git is master, 14e77d2
 ## 相关阅读
 * [奇技淫巧[1]：cmake中获取git信息](https://zhuanlan.zhihu.com/p/57319492)
 
-<center><img src="https://img-blog.csdnimg.cn/20190309211249199.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly95bmd6bWlhby5ibG9nLmNzZG4ubmV0,size_16,color_FFFFFF,t_70">
