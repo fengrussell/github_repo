@@ -28,6 +28,9 @@
 ### NLP  
 * [BERT课程预备知识](http://fancyerii.github.io/2019/03/05/bert-prerequisites/)   
 
+### Paper
+* [CycleISP](https://github.com/swz30/CycleISP)  
+
 
 ### Math  
 * [CALCULUS MADE EASY](https://github.com/nadvornix/calculus-made-easy)  
@@ -55,7 +58,7 @@
   - [机器学习-白板推导系列-笔记](https://github.com/ws13685555932/machine_learning_derivation)  
 * [机器学习算法-知乎](https://github.com/yhangf/ML-NOTE)    
 * [机器学习，概率模型和深度学习的讲义-徐亦达](https://github.com/roboticcam/machine-learning-notes)   
-
+* [统计学习方法](https://github.com/Dod-o/Statistical-Learning-Method_Code)  
 
 
 ### 容器  
